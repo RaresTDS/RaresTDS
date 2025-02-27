@@ -8,7 +8,7 @@ I am a proactive teenager eager to discover new projects, new communities of har
 
 ### 🤖 Language and Tools
 
-<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />                 
 <img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/
@@ -17,4 +17,4 @@ css3-original-wordmark.svg" />
 <img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-plain-wordmark.svg" />
 <br/>
 
-#
+#         
