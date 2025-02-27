@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🧑‍🎓 Tudose Rareș
 
-<!--
-**RaresTDS/RaresTDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Student at Technical University of Cluj-Napoca'**
 
-Here are some ideas to get you started:
+I am a proactive teenager eager to discover new projects, new communities of hardworking people and new ways to solve problems. I am currently a student at Technical University of Cluj-Napoca, studing computer science. All coding projects are build from ground-up from planning and designing all the way to solving real-life problems with code. I thrive in dynamic environments and continually seek opportunities to expand my knowledge and adapt to new situations, always striving to achieve my goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Language and Tools
+
+<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+
+<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />       
+          
+<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/
+css3-original-wordmark.svg" />
+
+<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
+
+<img align="left" alt="Java" width ="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-plain-wordmark.svg" />
+          
+<br/>
+#
+          
+          
